@@ -1,4 +1,4 @@
-## bem vindo ao meu perfil! 🧑‍🎨
+## bem vindo ao meu perfil!
 
 <!--
 **flavio0336/flavio0336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
